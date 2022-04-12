@@ -1,9 +1,12 @@
-# Made By Code with Frazix
+# Made By Code with Bluecraft
 ### This script will make your termux look better. Enjoy! ! 
 #### Installing
-1. apt update && pkg install git && git clone https://github.com/Frazix12/termux-styling
-1. cd termux-styling && chmod +x *
-2. ./setup.sh or sh setup.sh to install styling. 
+1. apt update
+2. pkg install git 
+3. git clone https://github.com/Frazix12/termux-styling
+4. cd termux-styling 
+5. chmod +x *
+6. ./setup.sh or sh setup.sh to install styling. 
 
 
 #### Features
