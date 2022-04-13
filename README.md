@@ -3,7 +3,7 @@
 #### Installing
 1. apt update
 2. pkg install git 
-3. git clone https://github.com/BluecraftDev/termux-styling
+3. git clone https://github.com/BluecraftDev/termux-styling.git
 4. cd termux-styling 
 5. chmod +x *
 6. ./setup.sh or sh setup.sh to install styling. 
