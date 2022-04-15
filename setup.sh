@@ -8,7 +8,7 @@ pkg install git ruby ncurses-utils -y > /dev/null 2>&1
 gem install lolcat
 cd
 cd ../usr/share
-git clone https://github.com/BluecraftDev/figlet-fonts
+git clone https://github.com/xero/figlet-fonts
 mv figlet-fonts/* figlet && rm -rf figlet-fonts
 cd $HOME
 clear
@@ -105,7 +105,7 @@ clear
 #Script starts
 #cd $HOME
 #cd termuxstyling
-echo "Script made by:- Bluecraft"
+echo "Script made by:- Code with Frazix"
 #Assigns Username
 if [ ! -e ".user.cfg" ] 
 then
@@ -175,10 +175,10 @@ alias upg=\"git reset --hard;git pull\"
 alias update=\"apt-get update;apt-get upgrade\"" > /data/data/com.termux/files/usr/etc/bash.bashrc
 cd /$HOME
 echo Script made by
-toilet Sub to | lolcat
+toilet Code with | lolcat
 toilet Bluecraft | lolcat
 sleep 2
 mdv README.md
 cd $pdir
-echo Subscribe to our YT channel Bluecraft 
+echo Subscribe to our YT channel Bluecraft
 echo Restart to apply changes
